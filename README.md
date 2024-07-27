@@ -17,7 +17,7 @@ Student1559592 TA HUYNH CONG HUYEN
 
 ============================
 
-eProject documentation at https://github.com/huongvu03/kitchen_appliances/tree/main/document
+eProject documentation at https://github.com/LP180305/project4/tree/main/document
 
 ============================
 
